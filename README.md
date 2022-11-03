@@ -6,6 +6,7 @@ LeetCode Problems' Solutions
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [javascript](./string/javascript/two-sum.js) |Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [javascript](./math/javascript/palindrome-number.js) |Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [javascript](./string/javascript/roman-to-integer.js) |Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [javascript](./string/javascript/longest-common-prefix.js) |Easy|
 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [javascript](./string/javascript/remove-duplicates-from-sorted-array.js) |Easy|
