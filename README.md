@@ -12,6 +12,7 @@ LeetCode Problems' Solutions
 |20|Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [javascript](./string/javascript/valid-parentheses.js) |Easy|
 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [javascript](./string/javascript/remove-duplicates-from-sorted-array.js) |Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [javascript](./string/javascript/fizz-buzz.js) |Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [javascript](./string/javascript/jewels-and-stones.js) |Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [javascript](./array/javascript/running-sum-of-1d-array.js) |Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [javascript](./array/javascript/middle-of-the-linked-list.js) |Easy|
 |1342|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [javascript](./array/javascript/richest-customer-wealth.js) |Easy|
