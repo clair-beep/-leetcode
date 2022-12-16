@@ -12,7 +12,8 @@ LeetCode Problems' Solutions
 |20|Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [javascript](./string/javascript/valid-parentheses.js) |Easy|
 26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [javascript](./string/javascript/remove-duplicates-from-sorted-array.js) |Easy|
 58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [javascript](./string/javascript/length-of-last-word.js) |Easy|
-136|[Single Number](https://leetcode.com/problems/length-of-last-word/) | [javascript](./string/javascript/single-number.js) |Easy|
+121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [javascript](./string/javascript/single-number.js) |Easy|
+136|[Single Number](https://leetcode.com/problems/length-of-last-word/) | [javascript](./string/javascript/best-time-to-buy-and-sell-stock.js) |Easy|
 169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [javascript](./array/javascript/contains-duplicate.js) |Easy|
 217|[Contains Duplicate](https://leetcode.com/problems/majority-element/) | [javascript](./array/javascript/majority-element.js) |Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [javascript](./string/javascript/fizz-buzz.js) |Easy|
