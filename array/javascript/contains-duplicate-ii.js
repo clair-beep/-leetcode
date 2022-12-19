@@ -1,4 +1,4 @@
-var containsNearbyDuplicate = function(nums, k) {
+var containsNearbyDuplicate = function (nums, k) {
     const hasmap = new Map();
     for (let i = 0; i < nums.length; i++) {
         if (i - hasmap.get(nums[i]) <= k) {
@@ -7,4 +7,6 @@ var containsNearbyDuplicate = function(nums, k) {
         hasmap.set(nums[i], i);
     }
     return false;
+
 };
+
