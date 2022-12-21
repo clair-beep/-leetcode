@@ -16,6 +16,7 @@ LeetCode Problems' Solutions
 136|[Single Number](https://leetcode.com/problems/length-of-last-word/) | [javascript](./string/javascript/best-time-to-buy-and-sell-stock.js) |Easy|
 169|[Majority Element](https://leetcode.com/problems/majority-element/description/) | [javascript](./array/javascript/contains-duplicate.js) |Easy|
 217|[Contains Duplicate](https://leetcode.com/problems/majority-element/) | [javascript](./array/javascript/majority-element.js) |Easy|
+219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [javascript](./array/javascript/contains-duplicate-ii.js) |Easy|
 344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [javascript](./array/javascript/reverse-string.js) |Easy|
 349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [javascript](./array/javascript/reverse-string.js) |Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [javascript](./string/javascript/fizz-buzz.js) |Easy|
