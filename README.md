@@ -30,3 +30,4 @@ LeetCode Problems' Solutions
 | 1342 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)                                       | [javascript](./array/javascript/richest-customer-wealth.js)                   | Easy       |
 | 1672 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [javascript](./math/javascript/number-of-steps-to-reduce-a-number-to-zero.js) | Easy       |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                         | [javascript](./array/javascript/concatenation-of-array.js)                    | Easy       |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                         | [javascript](./array/javascript/concatenation-of-array.js)                    | Easy       |
