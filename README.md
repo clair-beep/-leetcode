@@ -11,6 +11,7 @@ LeetCode Problems' Solutions
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                     | [javascript](./string/javascript/roman-to-integer.js)                         | Easy       |
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                           | [javascript](./string/javascript/longest-common-prefix.js)                    | Easy       |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                   | [javascript](./string/javascript/valid-parentheses.js)                        | Easy       |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                         | [javascript](./string/javascript/merge-two-sorted-lists.js)                   | Easy       |
 | 26   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               | [javascript](./string/javascript/remove-duplicates-from-sorted-array.js)      | Easy       |
 | 58   | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                               | [javascript](./string/javascript/length-of-last-word.js)                      |
 | 59   | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)                                                      | [javascript](./array/javascript/spiral-matrix-ii.js)                          |
