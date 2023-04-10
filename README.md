@@ -1,4 +1,4 @@
-# Leetcode
+# ByteNexus
 
 LeetCode Problems' Solutions
 
