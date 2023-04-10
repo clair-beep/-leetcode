@@ -4,8 +4,76 @@ LeetCode Problems' Solutions
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
 
-| #    | <h1>Title </h1>                                                                                                         | Solution                                                                      | Difficulty |
-| ---- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- | --- | ---- |
+| # | <h1>Title </h1> <table>
+
+  <thead>
+    <tr>
+      <th>Solution</th>
+      <th>Difficulty</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+      <td><a href="./string/javascript/two-sum.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
+      <td><a href="./math/javascript/palindrome-number.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
+      <td><a href="./string/javascript/roman-to-integer.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+      <td><a href="./string/javascript/longest-common-prefix.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
+      <td><a href="./string/javascript/valid-parentheses.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Two Sorted Lists</a></td>
+      <td><a href="./string/javascript/merge-two-sorted-lists.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+      <td><a href="./string/javascript/remove-duplicates-from-sorted-array.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td><a href="https://leetcode.com/problems/length-of-last-word/">Length of Last Word</a></td>
+      <td><a href="./string/javascript/length-of-last-word.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td><a href="https://leetcode.com/problems/spiral-matrix-ii">Spiral Matrix II</a></td>
+      <td><a href="./array/javascript/spiral-matrix-ii.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td><a href="https://leetcode.com/problems/plus-one/">Plus One</a></td>
+      <td><a href="./array/javascript/plus-one.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- | --- | ---- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                       | [javascript](./string/javascript/two-sum.js)                                  | Easy       |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                   | [javascript](./math/javascript/palindrome-number.js)                          | Easy       |
 | 13   | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                     | [javascript](./string/javascript/roman-to-integer.js)                         | Easy       |
