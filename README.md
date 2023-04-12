@@ -73,6 +73,66 @@ LeetCode Problems' Solutions
       <td><a href="./array/javascript/plus-one.js">javascript</a></td>
       <td>Easy</td>
     </tr>
+    <tr>
+    <td>121</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/">Best Time to Buy and Sell Stock</a></td>
+    <td><a href="./string/javascript/single-number.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>136</td>
+    <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td><a href="./string/javascript/best-time-to-buy-and-sell-stock.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>169</td>
+    <td><a href="https://leetcode.com/problems/majority-element/description/">Majority Element</a></td>
+    <td><a href="./array/javascript/contains-duplicate.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>217</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td><a href="./array/javascript/majority-element.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>219</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-ii/">Contains Duplicate II</a></td>
+    <td><a href="./array/javascript/contains-duplicate-ii.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>344</td>
+    <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td><a href="./array/javascript/reverse-string.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>349</td>
+    <td><a href="https://leetcode.com/problems/intersection-of-two-arrays/description/">Intersection of Two Arrays</a></td>
+    <td><a href="./array/javascript/reverse-string.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>412</td>
+    <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
+    <td><a href="./string/javascript/fizz-buzz.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>509</td>
+    <td><a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
+    <td><a href="./math/javascript/fibonacci-number.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>704</td>
+    <td><a href="https://leetcode.com/problems/binary-search/">Binary Search</a></td>
+    <td><a href="./array/javascript/jewels-and-stones.js">javascript</a></td>
+    <td>Easy</td>
+  </tr>
 
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [javascript](./string/javascript/single-number.js) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/length-of-last-word/) | [javascript](./string/javascript/best-time-to-buy-and-sell-stock.js) | Easy |
