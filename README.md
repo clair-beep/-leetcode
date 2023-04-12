@@ -9,8 +9,7 @@ LeetCode Problems' Solutions
    <h2>Introduction</h2>
   <p>As a technology professional, it is essential to keep learning and expanding our skillset. In today's fast-paced digital world, data is becoming increasingly valuable, and being able to organize and store it efficiently is vital. Data structures and algorithms provide us with the tools to do just that, making them a valuable addition to our professional repertoire.</p>
 
-    <h2>Benefits of Understanding Data Structures and Algorithms</h2>
-
+  <h2>Benefits of Understanding Data Structures and Algorithms</h2>
   <p>Understanding data structures and algorithms provides many benefits, including:</p>
   <ul>
     <li>Efficiency: Implementing efficient data structures and algorithms can improve application performance, reduce execution time, and optimize system resources.</li>
@@ -21,6 +20,7 @@ LeetCode Problems' Solutions
   <p>For example, I need to gain a more comprehensive understanding of asymptotic notation, which is vital for analyzing algorithm performance and designing efficient code. I also need to develop a deeper expertise in circular queues and deques, which are essential for efficient data processing, and heap data structures, which have widespread applications in computer science.</p>
   <p>I am eager to continue learning and practicing these concepts to become a more skilled programmer and create software systems that are faster, more efficient, and more scalable.</p>
 </div>
+
  <table>
 
   <thead>
