@@ -4,14 +4,19 @@ LeetCode Problems' Solutions
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
 
-| # | <h1>Title </h1> <table>
+ <h1>Title </h1> 
+ 
+ <table>
 
   <thead>
     <tr>
-      <th>Solution</th>
+      <th>#</th>
+      <th>Name</th>
+      <th>Language</th>
       <th>Difficulty</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td>1</td>
@@ -170,3 +175,5 @@ LeetCode Problems' Solutions
     <td><a href="./array/javascript/concatenation-of-array.js">javascript</a></td>
     <td>Easy</td>
   </tr>
+  
+</table>
