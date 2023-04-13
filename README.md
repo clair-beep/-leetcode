@@ -72,6 +72,12 @@ LeetCode Problems' Solutions
       <td>Easy</td>
     </tr>
     <tr>
+      <td>22</td>
+      <td><a href="https://leetcode.com/problems/generate-parentheses">Generate Parentheses</a></td>
+      <td><a href="./string/javascript//generate-parentheses.js">javascript</a></td>
+      <td>Easy</td>
+    </tr>
+    <tr>
       <td>26</td>
       <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
       <td><a href="./string/javascript/remove-duplicates-from-sorted-array.js">javascript</a></td>
