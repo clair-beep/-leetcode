@@ -83,7 +83,7 @@ LeetCode Problems' Solutions
       <td><a href="https://leetcode.com/problems/generate-parentheses">Generate Parentheses</a></td>
       <td><a href="./string/javascript//generate-parentheses.js">Code sample</a></td>
       <td>Javascript</td>
-      <td>Easy</td>
+      <td>Medium</td>
     </tr>
     <tr>
       <td>26</td>
