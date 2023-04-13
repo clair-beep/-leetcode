@@ -47,24 +47,28 @@ LeetCode Problems' Solutions
       <td>9</td>
       <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
       <td><a href="./math/javascript/palindrome-number.js">Check me</a></td>
+      <td>Javascript</td>
       <td>Easy</td>
     </tr>
     <tr>
       <td>13</td>
       <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
       <td><a href="./string/javascript/roman-to-integer.js">Check me</a></td>
+      <td>Javascript</td>
       <td>Easy</td>
     </tr>
     <tr>
       <td>14</td>
       <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
       <td><a href="./string/javascript/longest-common-prefix.js">Check me</a></td>
+      <td>Javascript</td>
       <td>Easy</td>
     </tr>
     <tr>
       <td>20</td>
       <td><a href="https://leetcode.com/problems/valid-parentheses/">Valid Parentheses</a></td>
       <td><a href="./string/javascript/valid-parentheses.js">Check me</a></td>
+      <td>Javascript</td>
       <td>Easy</td>
     </tr>
     <tr>
@@ -119,8 +123,8 @@ LeetCode Problems' Solutions
   <tr>
     <td>136</td>
     <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
-    <td><a href="./string/javascript/best-time-to-buy-and-sell-stock.js">Check me</a></
-    <td>Javascript</td>td>
+    <td><a href="./string/javascript/best-time-to-buy-and-sell-stock.js">Check me</a></td>
+    <td>Javascript</td>
     <td>Easy</td>
   </tr>
   <tr>
