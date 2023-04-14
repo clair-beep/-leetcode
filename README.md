@@ -43,6 +43,13 @@ LeetCode Problems' Solutions
       <td>Javascript</td>
       <td>Easy</td>
     </tr>
+        <tr>
+      <td>5</td>
+      <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Two Sum</a></td>
+      <td><a href="./dynamic-programming/javascript/longest-palindromic-substring.js">Code sample</a></td>
+      <td>Javascript</td>
+      <td>Medium</td>
+    </tr>
     <tr>
       <td>9</td>
       <td><a href="https://leetcode.com/problems/palindrome-number/">Palindrome Number</a></td>
