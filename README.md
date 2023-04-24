@@ -205,6 +205,13 @@ LeetCode Problems' Solutions
     <td>Javascript</td>
     <td>Easy</td>
   </tr>
+    <tr>
+    <td>929</td>
+    <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
+    <td><a href="./array/javascript/unique-email-addresses.js">Code sample</a></td>
+    <td>Javascript</td>
+    <td>Easy</td>
+  </tr>
   <tr>
     <td>1480</td>
     <td><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1d Array</a></td>
