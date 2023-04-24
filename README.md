@@ -7,7 +7,7 @@ LeetCode Problems' Solutions
  <h1>ByteNexus </h1> 
  
    <h2>Introduction</h2>
-  <p>As a technology professional, it is essential to keep learning and expanding our skillset. In today's fast-paced digital world, data is becoming increasingly valuable, and being able to organize and store it efficiently is vital. Data structures and algorithms provide us with the tools to do just that, making them a valuable addition to our professional repertoire.</p>
+  <p>As a Software Engineer, it is essential to keep learning and expanding our skillset. In today's fast-paced digital world, data is becoming increasingly valuable, and being able to organize and store it efficiently is vital. Data structures and algorithms provide us with the tools to do just that, making them a valuable addition to our professional repertoire.</p>
 
   <h2>Benefits of Understanding Data Structures and Algorithms</h2>
   <p>Understanding data structures and algorithms provides many benefits, including:</p>
