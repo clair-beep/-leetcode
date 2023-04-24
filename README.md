@@ -45,7 +45,7 @@ LeetCode Problems' Solutions
     </tr>
         <tr>
       <td>5</td>
-      <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Two Sum</a></td>
+      <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic substring</a></td>
       <td><a href="./dynamic-programming/javascript/longest-palindromic-substring.js">Code sample</a></td>
       <td>Javascript</td>
       <td>Medium</td>
