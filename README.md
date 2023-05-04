@@ -100,6 +100,13 @@ LeetCode Problems' Solutions
       <td>Easy</td>
     </tr>
     <tr>
+      <td>49</td>
+      <td><a href="https://leetcode.com/problems/group-anagrams">Group Anagrams</a></td>
+      <td><a href="./hash-table/javascript/group-anagrams.js">Code sample</a></td>
+      <td>Javascript</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
       <td>58</td>
       <td><a href="https://leetcode.com/problems/length-of-last-word/">Length of Last Word</a></td>
       <td><a href="./string/javascript/length-of-last-word.js">Code sample</a></td>
