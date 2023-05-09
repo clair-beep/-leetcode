@@ -100,6 +100,13 @@ LeetCode Problems' Solutions
       <td>Easy</td>
     </tr>
     <tr>
+      <td>35</td>
+      <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Search Insert Position</a></td>
+      <td><a href="./array/javascript/search-insert-position.js">Code sample</a></td>
+      <td>Javascript</td>
+      <td>Easy</td>
+    </tr>
+    <tr>
       <td>49</td>
       <td><a href="https://leetcode.com/problems/group-anagrams">Group Anagrams</a></td>
       <td><a href="./hash-table/javascript/group-anagrams.js">Code sample</a></td>
