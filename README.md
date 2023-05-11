@@ -149,6 +149,13 @@ LeetCode Problems' Solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>153</td>
+    <td><a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">Find Minimum in Rotated Sorted Array</a></td>
+    <td><a href="./array/javascript/find-minimum-in-rotated-sorted-array.js">Code sample</a></td>
+    <td>Javascript</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>169</td>
     <td><a href="https://leetcode.com/problems/majority-element/description/">Majority Element</a></td>
     <td><a href="./array/javascript/contains-duplicate.js">Code sample</a></td>
