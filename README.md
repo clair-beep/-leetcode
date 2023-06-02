@@ -190,6 +190,13 @@ LeetCode Problems' Solutions
     <td>Javascript</td>
     <td>Easy</td>
   </tr>
+   <tr>
+    <td>383</td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td><a href="./string/javascript/ransom-note.js">Code sample</a></td>
+    <td>Javascript</td>
+    <td>Easy</td>
+  </tr>
   <tr>
     <td>412</td>
     <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
