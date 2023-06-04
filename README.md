@@ -99,6 +99,13 @@ LeetCode Problems' Solutions
       <td>Javascript</td>
       <td>Easy</td>
     </tr>
+        <tr>
+      <td>27</td>
+      <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+      <td><a href="./array/javascript/remove-element.js">Code sample</a></td>
+      <td>Javascript</td>
+      <td>Easy</td>
+    </tr>
     <tr>
       <td>35</td>
       <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Search Insert Position</a></td>
@@ -258,6 +265,13 @@ LeetCode Problems' Solutions
     <td>1672</td>
     <td><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
     <td><a href="./math/javascript/number-of-steps-to-reduce-a-number-to-zero.js">Code sample</a></td>
+    <td>Javascript</td>
+    <td>Easy</td>
+  </tr>
+    <tr>
+    <td>1920</td>
+    <td><a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array from Permutation</a></td>
+    <td><a href="./array/javascript/build-array-from-permutation.js">Code sample</a></td>
     <td>Javascript</td>
     <td>Easy</td>
   </tr>
